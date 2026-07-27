@@ -1,0 +1,1 @@
+Open a browser, navigate to https://google.com, and report back the page title and any visible content.
